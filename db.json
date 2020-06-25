@@ -4,61 +4,61 @@
       "name": "Акции",
       "url": "/about",
       "icon": "images/icons/common/promo.svg",
-      "isActive": true,
+      "isActive": true
     },
     {
       "name": "Народные промысл",
       "url": "#",
       "icon": "",
-      "isActive": true,
+      "isActive": true
     },
     {
       "name": "Продукты и напитки",
       "url": "#",
       "icon": "",
-      "isActive": false,
+      "isActive": false
     },
     {
       "name": "Электроника",
       "url": "#",
       "icon": "",
-      "isActive": false,
+      "isActive": false
     },
     {
       "name": "Красота и здоровье",
       "url": "#",
       "icon": "",
-      "isActive": false,
+      "isActive": false
     },
     {
       "name": "Транспорт",
       "url": "#",
       "icon": "",
-      "isActive": false,
+      "isActive": false
     },
     {
       "name": "Посуда",
       "url": "#",
       "icon": "",
-      "isActive": false,
+      "isActive": false
     },
     {
       "name": "Игрушки",
       "url": "#",
       "icon": "",
-      "isActive": false,
+      "isActive": false
     },
     {
       "name": "Одежда",
       "url": "#",
       "icon": "",
-      "isActive": false,
+      "isActive": false
     },
     {
       "name": "Детские товары",
       "url": "#",
       "icon": "",
-      "isActive": false,
+      "isActive": false
     }
   ]
 }
