@@ -1,8 +1,62 @@
-[
+{[
   {
     name: 'Акции',
     url: '/about',
     icon: 'images/icons/common/promo.svg',
     isActive: true,
+  },
+  {
+    name: 'Народные промысл',
+    url: '#',
+    icon: '',
+    isActive: true,
+  },
+  {
+    name: 'Продукты и напитки',
+    url: '#',
+    icon: '',
+    isActive: false,
+  },
+  {
+    name: 'Электроника',
+    url: '#',
+    icon: '',
+    isActive: false,
+  },
+  {
+    name: 'Красота и здоровье',
+    url: '#',
+    icon: '',
+    isActive: false,
+  },
+  {
+    name: 'Транспорт',
+    url: '#',
+    icon: '',
+    isActive: false,
+  },
+  {
+    name: 'Посуда',
+    url: '#',
+    icon: '',
+    isActive: false,
+  },
+  {
+    name: 'Игрушки',
+    url: '#',
+    icon: '',
+    isActive: false,
+  },
+  {
+    name: 'Одежда',
+    url: '#',
+    icon: '',
+    isActive: false,
+  },
+  {
+    name: 'Детские товары',
+    url: '#',
+    icon: '',
+    isActive: false,
   }
-]
+]}
