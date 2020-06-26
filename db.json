@@ -3,14 +3,14 @@
     {
       "name": "Акции",
       "url": "/about",
-      "icon": "images/icons/common/promo.svg",
+      "icon": "/images/icons/common/promo.svg",
       "isActive": true
     },
     {
       "name": "Народные промысл",
       "url": "#",
       "icon": "",
-      "isActive": true
+      "isActive": false
     },
     {
       "name": "Продукты и напитки",
